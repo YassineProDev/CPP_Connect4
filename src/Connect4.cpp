@@ -1,4 +1,5 @@
-#include "Connect4.h"
+#include "../headers/Connect4.h"
+
 
 Connect4::Connect4()
 {

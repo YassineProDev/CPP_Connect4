@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Connect4.h"
+#include "../headers/Connect4.h"
 
 using namespace std;
 
