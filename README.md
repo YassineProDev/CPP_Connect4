@@ -8,8 +8,8 @@
  - In Visual Studio Code click on the "Extensions" icon in the left-hand menu (or press "Ctrl+Shift+X") and install the extension : "C/C++"
  - Next, you need to install a compiler. Go to the Oracle JDK download page: https://www.msys2.org/ 
    and follow the differents steps 
- - To install the full compiler toolchain open the MYSY terminal and type : pacman -S --needed base-devel mingw-w64-x86_64-toolchain
- - 
+ - To install the full compiler toolchain open the MYSY2 terminal and type : pacman -S --needed base-devel mingw-w64-x86_64-toolchain
+ 
  - Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
      - In the Windows search bar, type 'settings' to open your Windows Settings
      - Search for Edit environment variables for your account
