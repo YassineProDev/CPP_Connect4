@@ -27,10 +27,9 @@
 
 <div align="center">
 
-
 <div align="center">
 
-## Connect 4
+# Presentation
 
 
 ## Enter your names and choose the size of the board
