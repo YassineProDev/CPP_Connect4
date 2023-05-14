@@ -24,6 +24,7 @@
   
 </div>
 - Then compile the project by writing  : g++ src/*.cpp -I headers -o main ; ./main.exe 
+
 <div align="center">
   
 ![2](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/99d79694-d856-4b45-b692-540bb9324e41)
