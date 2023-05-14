@@ -13,7 +13,7 @@
  - Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
      - In the Windows search bar, search Edit environment.
      - Choose the Path variable in your User variables and then select Edit.
-     - Select New and add the Mingw-w64 destination folder path, and type the path : C:\msys64\mingw64\bin.
+     - Select New and add the Mingw-w64 destination folder path, and type the path : C:\msys64\mingw64\bin
      - Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available.
 
 - Then open the project.
