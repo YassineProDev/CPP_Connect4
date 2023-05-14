@@ -11,10 +11,9 @@
  - To install the full compiler toolchain open the MYSY2 terminal and type : pacman -S --needed base-devel mingw-w64-x86_64-toolchain
  
  - Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
-     - In the Windows search bar, type 'settings' to open your Windows Settings
-     - Search for Edit environment variables for your account
+     - In the Windows search bar, search Edit environment
      - Choose the Path variable in your User variables and then select Edit
-     - Select New and add the Mingw-w64 destination folder path, with \mingw64\bin appended, to the system path. The exact path depends on which version of Mingw-         w64 you have installed and where you installed it. If you used the settings above to install Mingw-w64, then add this to the path: C:\msys64\mingw64\bin
+     - Select New and add the Mingw-w64 destination folder path, and type the path : C:\msys64\mingw64\bin 
      - Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available
 
 <div align="center">
