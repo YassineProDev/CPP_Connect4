@@ -3,6 +3,8 @@
 # Installation
   
 </div>
+
+## Installation of the development environment
   
  - Install Visual Studio Code.
  - In Visual Studio Code click on the "Extensions" icon in the left-hand menu (or press "Ctrl+Shift+X") and install the extension : "C/C++".
