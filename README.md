@@ -18,7 +18,9 @@
      - Select New and add the Mingw-w64 destination folder path, and type the path : C:\msys64\mingw64\bin
      - Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available.
 
-- Then open the project.
+## Opening and compilation of the project
+
+- Then open the project in Visual Studio Code by opening the file "CPP_Connect4-main".
 - In the Visual Studio Code terminal go in the current directory.
 <div align="center">
   
