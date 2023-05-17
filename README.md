@@ -30,20 +30,16 @@ g++ src/*.cpp -I headers -o main.exe ; ./main.exe
 
 # Presentation
 
-
 ## Enter your names and choose the size of the board
   
 ![1](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/e6340a54-984f-4f5d-a33a-95931d887734)
- 
-![1](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/f9fe6c20-d2fb-4e54-a7fc-ca0075899a86)
 
 ## Each turn, choose the column where you want to drop your piece
 
-![2](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/ff89f939-42d3-40b6-abcb-e4cc57e15153)
+![2](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/b869ce7a-3e6b-4f39-9d38-284c1bed1e2a)
 
 ## At the end, the winner is displayed on the screen
 
-![3](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/61c8f56c-bbba-45d8-ae0e-1b5e52d82d30)
-
+![3](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/addd693b-5286-4af2-9308-3c51ca1a3d85)
 
 </div>
