@@ -30,8 +30,11 @@ g++ src/*.cpp -I headers -o main.exe ; ./main.exe
 
 # Presentation
 
+
 ## Enter your names and choose the size of the board
   
+![1](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/e6340a54-984f-4f5d-a33a-95931d887734)
+ 
 ![1](https://github.com/YassineProDev/CPP_Connect4/assets/120946916/f9fe6c20-d2fb-4e54-a7fc-ca0075899a86)
 
 ## Each turn, choose the column where you want to drop your piece
