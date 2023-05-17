@@ -74,17 +74,20 @@ void Connect4::display()
 {
     for(int i=0 ; i<height ; i++)
     {
+        std::cout<<"        ";
         for(int j=0; j<width ; j++)
         {
             cout<<piece(i,j)<< ' ';
         }
         cout<<endl;
     }
+    std::cout<<"        ";
     for (int i = 1 ; i <=width ; ++i)
     {
         cout<< '_' << ' ';
     }
     cout<<endl;
+    std::cout<<"        ";
     for (int i = 1 ; i <=width ; ++i)
     {
         cout<< i  <<' ';
